@@ -1,4 +1,4 @@
-CREATE TRIGGER dbo.credits_earned
+CREATE TRIGGER dbo.lost_credits
 ON takes
 AFTER INSERT, DELETE
 AS
